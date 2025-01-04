@@ -1,0 +1,4 @@
+Player:
+  name:
+    Hover: "点我TPA到 [PlayerName]"
+    Click: "/tpa [PlayerName]"

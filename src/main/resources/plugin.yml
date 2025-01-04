@@ -1,0 +1,17 @@
+name: LiuLi_BetterChat
+version: '1.0-SNAPSHOT'
+main: BetterChat.BetterChat
+api-version: '1.21'
+author: "LiuLI_EYEs"
+softdepend:
+  - PlayerTitle
+commands:
+  LiuLIBetterChatConfig:
+    aliases: llbc
+    description: 关于LiuLIBetterChat的配置
+    permission: BetterChat.Admin
+permissions:
+  BetterChat.Admin:
+    description: 管理员权限
+    default: op
+folia-supported: true
