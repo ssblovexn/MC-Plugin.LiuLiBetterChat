@@ -2,6 +2,9 @@
 兼容PlayerTitle:
 
 https://ricedoc.handyplus.cn/wiki/PlayerTitle/
+### 如果您要修改他，完全可以，记得自己加依赖 
+
+https://ricedoc.handyplus.cn/wiki/PlayerTitle/README/#%E5%9B%9B%E3%80%81%E4%B8%8B%E8%BD%BD
 
 支持Paper，folia的聊天增强插件,通过[item1]展示主手物品[item2]展示副手物品[web:xxxxxx]展示链接   方便的修改聊天栏点击玩家ID的事件（如：点击后TPA该玩家，可自己修改点击事件与悬浮的文本框）
 # 目前支持的：
